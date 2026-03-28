@@ -54,7 +54,9 @@ Clone the repository:
 git clone https://github.com/your-username/cross-math-puzzle.git
 Open in Android Studio.
 Build and run on an emulator or physical device.
-📸 Screenshots
+📸 Screenshots![WhatsApp Image 2026-03-28 at 9 32 21 PM](https://github.com/user-attachments/assets/d5b09f74-5a85-4d3c-8a56-b3b927f75bbc)  ![WhatsApp Image 2026-03-28 at 9 32 22 PM](https://github.com/user-attachments/assets/ac043cfb-4160-4667-8c2e-471004897600)
+
+
 (Add screenshots of Beginner and Advanced modes here)
 
 ✅ Future Enhancements
